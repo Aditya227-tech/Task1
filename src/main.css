@@ -1,0 +1,23 @@
+body {
+  background-image: url("https://slidechef.net/wp-content/uploads/2021/07/education-background-design-google-slide.jpg"),
+    url("https://ci3.googleusercontent.com/mail-sig/AIorK4y17fjEIx7dmGWGmd9lObP79l4DGwkLpEppJ9CuEPQZnF5vZ67Dva7vtnnjoGgiNl4rdGfS7ShOtjZ7");
+  background-size: cover, contain;
+  background-position: center, top right;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 90vh;
+}
+
+input {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #f51313ce;
+  color: #0c0c0c;
+  padding: 12px;
+}
+
+label {
+  font-weight: bold;
+}
